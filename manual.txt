@@ -1,0 +1,18 @@
+Pre-requisites: 
+	1`. Install Python version 3.5 or more.
+	2 . Install Libraries as numpy, matlplotlib, opencv and opencv contrib.
+	3 . Install dyjango.
+	4 . Install SQLite db browser.
+
+Execution:
+	1 . Open command prompt
+	2 . Pass path where project saved.
+	3 . command to run: python manage.py runserver
+	4 . After execution of program it will display the localhost link eg."http://127.0.0.1:8000/" 
+	    copy the link and paste it on browser.
+	5 . will display message as - 1.^face_detection/
+				      2.^static_cdn/(?P<path>.*)$
+		add "/face_detection/" in link
+	6. Need to login in system using User id or Admin id.
+		Admin id : harshada@gmail.com
+		Admin password: ganesh@1
